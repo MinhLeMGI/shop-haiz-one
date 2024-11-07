@@ -144,12 +144,6 @@
 
     ],
     "blocks": {
-      "6251270934270006384": {
-        "type": "shopify://apps/stape-server-gtm/blocks/gtm/7e13c847-7971-409d-8fe0-29ec14d5f048",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "6680288666557934739": {
         "type": "shopify://apps/wishlist-king/blocks/wishlist-page/194f5011-a43c-4b22-b12e-eaf20dc4506a",
         "disabled": false,
@@ -254,6 +248,12 @@
         "disabled": false,
         "settings": {
           "version": "main"
+        }
+      },
+      "6628239160433917566": {
+        "type": "shopify://apps/littledata-revenue-tracking/blocks/LittledataLayer/45a35ed8-a2b2-46c3-84fa-6f58497c5345",
+        "disabled": false,
+        "settings": {
         }
       }
     },
